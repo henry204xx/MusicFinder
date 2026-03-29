@@ -1,54 +1,56 @@
 
-# Algeo02-23016
+# MusicFinder
 > Tugas Besar 2 IF2123 Aljabar Linier dan Geometri
 Image Retrieval dan Music Information Retrieval Menggunakan PCA dan Vektor
 Semester I Tahun 2024/2025
  
 
-# Deskripsi
-Program Album Finder dan Music Finder
+# Description
+Album Finder and Music Finder Program
 
 
 ## Usage
 
-Cara untuk menjalankan program
+How to run the program
 
-1. Buka terminal atau command prompt.
-2. Arahkan ke folder tempat file disimpan dengan perintah berikut:
-   - Untuk pengguna **Linux** atau **macOS**:
+1. Open a terminal or command prompt.
+2. Navigate to the folder where the file is stored using the following command:
+   - For **Linux** or **macOS** users:
      ```bash
      cd /path/to/folder
      ```
-   - Untuk pengguna **Windows**:
+   - For **Windows** users:
      ```bash
      cd \path\to\folder
      ```
 
-3. Pergi ke folder website:
+3. Go to the website folder:
     
      ```bash
      cd src/website
      ```
-3. Setelah berada di direktori yang benar, jalankan perintah berikut.
+
+3. Once in the correct directory, run the following commands:
     ```shell
     npm install
     ```
     ```shell
     npm run dev
     ```
-4. Buka website di
+
+4. Open the website at:
     ```shell
     http://localhost:3000
     ```
 
-4. Jika berhasil, akan muncul tampilan website.
+4. If successful, the website interface will appear.
 
 
 ## Features
 
-Program ini dapat
-1. Menampilkan daftar lagu di album berdasarkan input gambar wajah
-2. Mencari lagu berdasarkan input file audio
+This program can:
+1. Display a list of songs in an album based on facial image input
+2. Search for songs based on audio file input
 
 
 ## Created by
